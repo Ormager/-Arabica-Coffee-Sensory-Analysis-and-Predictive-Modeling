@@ -56,6 +56,12 @@ This highlights the potential presence of latent biases or reputation effects in
 
 ## Code
 The full analysis was conducted in Python.  
+
+⚠️ This notebook contains interactive outputs that are not rendered by GitHub.
+
+👉 View the full notebook with outputs in Google Colab:
+https://colab.research.google.com/drive/XXXX
+
 Notebook available at:  
 https://colab.research.google.com/drive/16CdByTq605Ss6iPICJqUsbbr160OssIw
 
