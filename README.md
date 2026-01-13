@@ -59,10 +59,7 @@ The full analysis was conducted in Python.
 
 ⚠️ This notebook contains interactive outputs that are not rendered by GitHub.
 
-👉 View the full notebook with outputs in Google Colab:
-https://colab.research.google.com/drive/XXXX
-
-Notebook available at:  
+👉 View the full notebook with outputs in Google Colab: 
 https://colab.research.google.com/drive/16CdByTq605Ss6iPICJqUsbbr160OssIw
 
 ## Authors
